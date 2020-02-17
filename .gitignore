@@ -107,5 +107,5 @@ dist
 .vscode-test
 
 # Generated files
-./schema/*
+schema/*
 apollo/src/generated/*
